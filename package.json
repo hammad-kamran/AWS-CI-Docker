@@ -1,0 +1,15 @@
+{
+  "name": "ci-docker-node-app",
+  "version": "1.0.0",
+  "description": "A Node.js application integrated with AWS CodeBuild and Docker for continuous integration and deployment.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Hammad Kamran Faruki",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+
